@@ -4,7 +4,7 @@ Before getting started, make sure you have the following tools installed:
 
 - [Docker](https://www.docker.com/get-started)
 
-## Running the Blog
+## Running the project
 
 1. Clone the repository to your computer:
 
